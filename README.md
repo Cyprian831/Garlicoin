@@ -6,9 +6,9 @@ This is a list compiled from @Arsanus#1111 and @Cyprian01#2167 from many problem
 
 [Garlium](https://cyprian831.github.io/Garlium/)
 
-[Garlium On Mac](: https://cyprian831.github.io/GarliumMac/)
+[Garlium On Mac](https://cyprian831.github.io/GarliumMac/)
 
-[Core Wallet](: https://cyprian831.github.io/WinCore/)
+[Core Wallet](https://cyprian831.github.io/WinCore/)
 
-[All the Resources!](: https://cyprian831.github.io/Resources/)
+[All the Resources!](https://cyprian831.github.io/Resources/)
 
