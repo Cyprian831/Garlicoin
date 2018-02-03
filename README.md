@@ -13,15 +13,19 @@ This is a list compiled from @Arsanus#1111 and @Cyprian01#2167 from many problem
 [Garlium On Mac](https://cyprian831.github.io/GarliumMac/)
 
 [Core Wallet](https://cyprian831.github.io/WinCore/)
+
+Garlicoin Wallet WIP build(Not done yet)
 </details>
 
 <details>
 <summary>Mining Troubleshooting</summary>
 <br>
-This will include troubleshooting for mining as soon as we get a chance to add it!
+
+Windows Mining(Not done yet)
+
+Posix Mining(Not done yet)
+
 </details>
- 
- 
-  
+
 [All the Resources!](https://cyprian831.github.io/Resources/)
 
