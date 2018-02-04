@@ -7,6 +7,7 @@ This is a list compiled from @Arsanus#1111 and @Cyprian01#2167 from many problem
 <details>
 <summary>Wallet Troubleshooting</summary>
 <br>
+
 [Garlium on Windows](https://cyprian831.github.io/Garlium/)
 <br>
 [Garlium on Mac](https://cyprian831.github.io/GarliumMac/)
@@ -19,6 +20,7 @@ Garlicoin Wallet WIP build(Not done yet)
 <details>
 <summary>Mining Troubleshooting</summary>
 <br>
+
 Windows Mining(Not done yet)
 <br>
 Posix Mining(Not done yet)
