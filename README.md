@@ -7,9 +7,9 @@ This is a list compiled from @Arsanus#1111 and @Cyprian01#2167 from many problem
 <details>
 <summary>Wallet Troubleshooting</summary>
 <br>
-[Garlium](https://cyprian831.github.io/Garlium/)
+[Garlium on Windows](https://cyprian831.github.io/Garlium/)
 <br>
-[Garlium On Mac](https://cyprian831.github.io/GarliumMac/)
+[Garlium on Mac](https://cyprian831.github.io/GarliumMac/)
 <br>
 [Core Wallet](https://cyprian831.github.io/WinCore/)
 <br>
