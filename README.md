@@ -8,22 +8,22 @@ This is a list compiled from @Arsanus#1111 and @Cyprian01#2167 from many problem
 <summary>Wallet Troubleshooting</summary>
 <br>
 
-[Garlium](https://cyprian831.github.io/Garlium/)
++[Garlium](https://cyprian831.github.io/Garlium/)
 
-[Garlium On Mac](https://cyprian831.github.io/GarliumMac/)
++[Garlium On Mac](https://cyprian831.github.io/GarliumMac/)
 
-[Core Wallet](https://cyprian831.github.io/WinCore/)
++[Core Wallet](https://cyprian831.github.io/WinCore/)
 
-Garlicoin Wallet WIP build(Not done yet)
++Garlicoin Wallet WIP build(Not done yet)
 </details>
 
 <details>
 <summary>Mining Troubleshooting</summary>
 <br>
 
-Windows Mining(Not done yet)
++Windows Mining(Not done yet)
 
-Posix Mining(Not done yet)
++Posix Mining(Not done yet)
 
 </details>
 
