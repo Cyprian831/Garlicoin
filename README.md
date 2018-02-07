@@ -10,7 +10,7 @@ This is a list compiled from @Arsanus#1111 and @Cyprian01#2167 from many problem
 
 [Core Wallet](https://cyprian831.github.io/WinCore/)
 
-Garlicoin Wallet WIP build(Not done yet)
+[Garlicoin Wallet WIP build](https://cyprian831.github.io/GarlicoinWallet/)
 
 #### Mining Troubleshooting
 
