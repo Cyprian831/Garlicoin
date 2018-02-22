@@ -15,3 +15,5 @@ This is a list compiled from @Arsanus#1111 and @Cyprian01#2167 from many problem
 #### Resources
 [All the Resources!](https://cyprian831.github.io/Resources/)
 
+Feel free to give us some rep on the discord with the `t!reputation [@user ]` command in the #bot-commands channel!
+
